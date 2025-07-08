@@ -39,7 +39,7 @@ Want to see it in action?
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nikhilks2002/food-ordering-website.git
+    git clone https://github.com/Nikhilks2002/food-counter.git
     ```
 
 2. Open the project folder in your code editor.
