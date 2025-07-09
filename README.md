@@ -37,14 +37,12 @@ Want to see it in action?
 ## 🛠️ How to Run
 
 1. Clone the repository:
-
-    ```bash
+   
     git clone https://github.com/Nikhilks2002/food-counter.git
-    ```
 
-2. Open the project folder in your code editor.
+3. Open the project folder in your code editor.
 
-3. Run it via a local server (e.g. XAMPP, WAMP, VS Code Live Server) to test PHP forms and dynamic features.
+4. Run it via a local server (e.g. XAMPP, WAMP, VS Code Live Server) to test PHP forms and dynamic features.
 
 ## 🙌 Acknowledgements
 
